@@ -1,4 +1,5 @@
 # cab-management-for-drivers
+this the half project of cab management system.
 Purpose of making this project is to learn the concept of upadate and delete in mysql.
 In this project i make a form with driver name,email,id and phone and this information is stored in mysql database.
 technology used in this project is html,css,php and mysql 
